@@ -1,0 +1,21 @@
+<svg id="sign" xmlns="http://www.w3.org/2000/svg" width="55.078" height="47" viewBox="0 0 110.156 94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f4a800;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ffbb13;
+      }
+    </style>
+  </defs>
+  <path id="Shape_5_copy_16" data-name="Shape 5 copy 16" class="cls-1" d="M44.2,50.316a8.4,8.4,0,0,0-11.8,0,8.223,8.223,0,0,0,0,11.7L64.661,94l11.8-11.7Z"/>
+  <path id="Shape_5_copy_15" data-name="Shape 5 copy 15" class="cls-1" d="M77.751,31.98L45.483,0l-11.8,11.7L65.946,43.68a8.411,8.411,0,0,0,11.8,0A8.221,8.221,0,0,0,77.751,31.98Z"/>
+  <path id="Shape_5_copy_6" data-name="Shape 5 copy 6" class="cls-2" d="M46.69,1.718L45.485,0,2.453,42.551a8.223,8.223,0,0,0-.014,11.7,8.409,8.409,0,0,0,11.805.014L46.465,22.4C53.345,15.6,49.62,5.9,46.69,1.718Z"/>
+  <path id="Shape_5_copy_4" data-name="Shape 5 copy 4" class="cls-2" d="M107.707,39.745A8.411,8.411,0,0,0,95.9,39.731L63.681,71.593c-6.879,6.8-3.155,16.5-.224,20.686L64.661,94l43.032-42.553A8.231,8.231,0,0,0,107.707,39.745Z"/>
+</svg>

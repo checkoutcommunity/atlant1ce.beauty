@@ -11,4 +11,4 @@ RewriteCond %{SCRIPT_FILENAME}.html -f
 RewriteRule [^/]$ %{REQUEST_URI}.html [QSA,L]
 RewriteRule ^index\.html$ / [R=301,L]
 RewriteRule ^(.*)/index\.html$ /$1/ [R=301,L]
-ErrorDocument 404 https://wintershield.ml/
+ErrorDocument 404 https://atlant1ce.beauty
